@@ -1,5 +1,5 @@
 
-![Logo](![Logo](https://github-readme-stats.vercel.app/api?username=rajeshraiml&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+(![Logo](https://github-readme-stats.vercel.app/api?username=rajeshraiml&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
 # Hi, I'm Rajesh R! 👋
